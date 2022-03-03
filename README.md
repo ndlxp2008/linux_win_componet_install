@@ -1,0 +1,2 @@
+# linux_win_componet_install
+Linux和win环境下的组件安装，方便开发及简单的线上小型部署
